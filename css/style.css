@@ -1,6 +1,8 @@
 h1{
 	font-family: sans-serif;
 	text-align: center;
+	padding-top: 1px;
+
 
 }
 img{
@@ -11,12 +13,16 @@ h3{
 	text-align: center;
 }
 header{
-	background-color: white;
 	color: black;
+	background-color: white;
+	padding-top: 30px;
+	min-height: 70px;
 }
 body{
-	background-color: blue;
-	color: white;
+	font: 15px Arial;
+	padding: 0;
+	margin: 0;
+	background-color: #3DB2FF;
 }
 footer{
 	background-color: red;
